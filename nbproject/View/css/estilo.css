@@ -1,0 +1,230 @@
+* {margin: 0px;
+   padding:0px;
+  }
+        
+body{
+background-image : url('../html/img/painel-fundo-metropole-azul.jpg');
+}
+
+	/* Estruturas do corpo de cada página */
+	
+    #corpo1{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 420px;
+    padding: 10px;
+    height: 300px;
+    background: #ffffff;
+    border-radius: 20px;  
+    border-width: 3px;
+    border-style: solid; 
+    border-color:  #0008ff;
+    }
+    
+    #corpo2{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 450px;
+    height: 460px;
+    background: #ffffff;
+    border-radius: 20px;  
+    border-width: 3px;
+    border-style: solid; 
+    border-color:  #0008ff;
+    }
+    
+    #corpo3{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 490px;
+    height: 500px;
+    background: #ffffff;
+    border-radius: 20px;  
+    border-width: 3px;
+    border-style: solid; 
+    border-color:  #0008ff; 
+    }
+    
+    #corpo4{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 490px;
+    height: 500px;
+    background: #ffffff;
+    border-radius: 20px;  
+    border-width: 3px;
+    border-style: solid; 
+    border-color:  #0008ff; 
+    }
+	
+	/* fim estruturas do corpo de cada página */
+	
+	/* Coluna aonde fica a informação */
+    
+    #informacoes{
+    position: absolute;
+    padding: 10px;
+    left: 120px;
+    width: 340px;
+    height: 480px;
+    background: #ffffff;
+    border-radius: 20px;  
+    border-width: 3px;  
+    overflow-y: auto;   
+    }
+	
+	/* Fim Coluna aonde fica a informação */
+  
+	/* Barras para localização */
+	
+    #barras{
+        border-radius: 10px;  
+        background: #0008ff;
+        border-color: #0008ff;
+        position:absolute;
+        width: 112px;
+        height:501px;
+    }
+	
+	/* Fim barras para localização */
+	
+	/* Botões para enviar */
+
+    #form-submit{
+    background: #0008ff;
+    color: white;
+    border-style: outset;
+    border-color: #0066A2;
+    height: 25px;
+    width: 140px;
+    font: URW Bookman L;
+    text-shadow:none;
+    }
+
+    #form-submit:hover{
+        cursor:pointer;
+        background-color: #3a9aff;
+        transition: all 0.3s;
+    }
+	
+	/* Botões para enviar */
+
+        #livro{
+            position: absolute;
+            background: #91ddff;
+            height: 260px;
+            width: 280px;
+            border-radius:20px;
+        }
+    
+    #opcoes{
+    font-size: 15px;
+    font-family:URW Bookman L;
+    text-align: center;
+    background: #0008ff;
+    color: white;
+    border-color: #0008ff;
+    border-radius: 20px;
+    height: 40px;
+    width: 110px;
+    font: URW Bookman L;
+    text-shadow:none;
+    }
+
+    #caixatext{
+        position: relative;
+    font-size: 15px;
+    font-family:URW Bookman L;
+    border-color: #0008ff;
+    border-radius: 20px;
+    height: 30px;
+    width: 190px;
+    font: URW Bookman L;
+    text-shadow: none;
+    float: right;
+    }
+
+    #opcoes:hover{
+        cursor:pointer;
+        background-color: #3a9aff;
+        transition: all 0.3s;
+    }
+    
+    #opcoes2{
+    font-size: 15px;
+    font-family:URW Bookman L;
+    text-align: center;
+    background: #3a9aff;
+    color: white;
+    border-color: #0008ff;
+    border-radius: 20px;
+    height: 40px;
+    width: 110px;
+    font: URW Bookman L;
+    text-shadow:none;
+    }
+    
+    #caixas{    
+    height: 180px;
+    width: 40px;
+    border-radius: 20px;
+    border-color: #0008ff;
+    }
+    
+    #tabela{
+    width: 300px;
+    border-style: solid;
+    border-color: #0008ff;
+    }
+    
+    #usuario{
+    display: block;
+    }
+    
+    /* hr e h's da pagígina */
+
+    hr{
+    border-color: #0008ff;
+    border-width: 2px;
+    }
+
+    h1{
+    font-family: URW Bookman L Italic;
+    color: #000000;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    }
+        
+    h3{
+    font-family:URW Bookman L; 
+    color: #000000;
+    text-align: left;
+    font-size: 20px;
+    }
+        
+    h4{
+    font-family:URW Bookman L; 
+    color: #000000;
+    text-align: center;
+    font-size: 15px;
+    }
+    
+    h5{
+    font-family:URW Bookman L; 
+    color: #ffffff;
+    text-align: center;
+    font-size: 15px;
+
+    }
+	
+	/* hr e h's da pagígina */
