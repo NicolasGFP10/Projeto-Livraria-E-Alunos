@@ -11,4 +11,4 @@
 
 - #### 1° Abra o XAMPP. Na coluna Actions, clique no botão start dos módulos Apache e MySQL, após isso basta esperar até que os módulos fiquem na cor verde, de acordo com a imagem abaixo.
 
-<img alt="imagem xampp ligado" width="500px" src="imgReadme/xampp ligado.png">
+<img alt="imagem xampp ligado" width="500px" align="center" src="imgReadme/xampp ligado.png">
