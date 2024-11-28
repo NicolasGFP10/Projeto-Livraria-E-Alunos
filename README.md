@@ -9,4 +9,6 @@
 
 ## Como Usar?
 
+- #### 1° Abra o XAMPP. Na coluna Actions, clique no botão start dos módulos Apache e MySQL, após isso basta esperar até que os módulos fiquem na cor verde.
 
+<img alt="imagem xampp ligado" src="">
