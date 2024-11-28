@@ -11,4 +11,6 @@
 
 - #### 1° Abra o XAMPP. Na coluna Actions, clique no botão start dos módulos Apache e MySQL, após isso basta esperar até que os módulos fiquem na cor verde, de acordo com a imagem abaixo.
 
-<center><img alt="imagem xampp ligado" width="500px" src="imgReadme/xampp ligado.png"></center>
+<img alt="imagem xampp ligado" width="500px" src="imgReadme/xampp ligado.png">
+
+- #### 2° Após tudo isso, clique em Admin na linha do MySQL, ou acesse <a href="http://localhost/phpmyadmin/"> http://localhost/phpmyadmin/</a> para abrir a página do PhpMyAdmin
