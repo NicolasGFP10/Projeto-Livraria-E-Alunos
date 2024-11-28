@@ -27,6 +27,6 @@
 
 <img alt="pasta do xampp" width="500px" src="imgReadme/pasta do xampp.png">
 
-- #### 6° - Com tudo isso pronto, basta abrir o projeto no seu navegador de preferência, usando a seguinte url: http://localhost/Projeto-Livraria-E-Alunos/, após isso o projeto irá se abrir e você podera usalo.
+- #### 6° - Com tudo isso pronto, basta abrir o projeto no seu navegador de preferência, usando a seguinte url: http://localhost/Projeto-Livraria-E-Alunos/, após isso o projeto irá se abrir e você podera usa-lo.
 
 
