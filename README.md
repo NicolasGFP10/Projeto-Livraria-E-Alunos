@@ -1,2 +1,5 @@
-# Projeto-Livraria-E-Alunos
- Um projeto criado em PHP, HTML, CSS e SQL no meu período de estudo na ETEC de Nova Odessa
+# Projeto Livraria e Alunos
+ 
+#### O Projeto Livraria e Alunos consiste em um sistema de Biblioteca, onde alunos conseguem compartilhar livros.
+
+## Como Usar?
